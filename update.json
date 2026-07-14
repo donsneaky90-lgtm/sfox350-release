@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.0.7/app-release.apk",
-  "changelog": "Fitur yang diperbarui\n- BackroundService\n- Notif\n- Mode Sleep\n- Auto Update\n- Pairing Demo\n- Reset ID\n- Download update langsung",
+  "versionCode": 5,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.0.8/app-release.apk",
+  "changelog": "Fitur yang diperbarui\n- BackroundService\n- Notif\n- Mode Sleep\n- Auto Update\n- Pairing Demo\n- Reset ID\n- Download update",
   "forceUpdate": false
 }
