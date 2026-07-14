@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.0.5",
   "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.0.5/app-release.apk",
-  "changelog": "test1234",
+  "changelog": "Fitur yang diperbarui\n- Cek auto update\n- Relog fix\n- Login normal",
   "forceUpdate": false
 }
