@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.0.15/app-release.apk",
-  "changelog": "Perubahan terbaru\nWarning...!! Wajib mengunakan Firmware Ver 1.6\nSilahkan hubungi Live chat di Tentang kami untuk mendapatkan Firmware Ver 1.6\n\n# FIX CAN Error\n# FIX Temp modul SFOX\n# SFOX Trip\n# Floating Charger",
+  "versionCode": 13,
+  "versionName": "1.0.16",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.0.16/app-release.apk",
+  "changelog": "Perubahan terbaru\n# FIX EST rata-rata tetap tampil saat aplikasi dibuka\n# FIX informasi Firmware & Hardware\n# FIX Floating Charger Remaining lebih stabil dan update cache tiap 1 detik\n# FIX tampilan setting\n# Update sinyal Bluetooth: -50 dBm = 100%, -90 dBm = 0%\n# Update SFOX Trip: syarat valid lebih ketat\n# Update Tentang Aplikasi: tombol Group WA dan Chat WA",
   "forceUpdate": false
 }
