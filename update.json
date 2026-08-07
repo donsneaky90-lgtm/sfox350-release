@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.16",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.1.16/app-release.apk",
-  "changelog": "Perubahan terbaru\n# FIX Floating Charger\n# Update tampilan Settings: pilihan Style Spedo dan Cek Jaringan Data\n# Update Style 2 - Dark\n# Update Cek komunikasi Data CANBUS",
+  "versionCode": 15,
+  "versionName": "1.1.17",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.1.17/app-release.apk",
+  "changelog": "Perubahan terbaru\n# SFOX Trip dan Estimasi Portrait\n# Navigasi menu",
   "forceUpdate": false
 }
