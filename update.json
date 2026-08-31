@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.17",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.1.17/app-release.apk",
-  "changelog": "Perubahan terbaru\n# SFOX Trip dan Estimasi Portrait\n# Navigasi menu",
+  "versionCode": 16,
+  "versionName": "1.2.18",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.18/app-release.apk",
+  "changelog": "PEMBARUAN APLIKASI SAAT INI\n[31/08/26]\n\n- Menu peta dan navigasi perjalanan.\n- Pilihan beberapa style peta.\n- GPS terpusat agar map dan perjalanan memakai lokasi yang sama.\n- Dukungan shared tautan dari google map.\n- Shared tautan text rincian perjalanan.\n- Bisa menyimpan alamat Rumah, Kantor, dan alamat lainnya.\n- Multy perjalanan dengan beberapa tujuan.\n- Profil elevasi route.\n- Data alamat SPKLU R2 dan notifikasi charger terdekat se Indonesia.\n- Peta trip perjalanan.\n- Riwayat temperatur motor, ECU, dan baterai.\n- Tampilan kapasitas baterai dalam Ah dan kWh.\n- Grafik power dan regenerative power.\n- Dukungan tipe motor FOX 350 dan FOX R/S.\n- Pembaruan Floating charger.\n- Pengaturan theme, peta, kompas, notifikasi, dan estimasi jarak.\n- Backup data di perbarui.\n- Tentang aplikasi - Informasi reseller resmi SFOX.",
   "forceUpdate": false
 }
