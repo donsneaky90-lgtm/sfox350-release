@@ -1,5 +1,5 @@
 {
-  "title": "Reseller resmi SFOX",
+  "title": "Reseller SFOX",
   "description": "Dapatkan modul dan aplikasi SFOX melalui reseller resmi kami.",
   "resellers": [
     {
@@ -8,6 +8,8 @@
       "address": "Toditan, Ceporan, Kec. Gantiwarno, Kabupaten Klaten, Jawa Tengah 57455",
       "whatsapp": "6281915221061",
       "mapUrl": "",
+      "latitude": -7.7481077,
+      "longitude": 110.5651822,
       "mapLabel": "Buka di peta",
       "contactLabel": "Hubungi Bintang275",
       "whatsappMessage": "Saya ingin membeli produk SFOX dari Bintang275, "
