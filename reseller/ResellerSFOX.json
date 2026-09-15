@@ -1,5 +1,5 @@
 {
-  "title": "Reseller resmi SFOX",
+  "title": "Reseller SFOX",
   "description": "Dapatkan modul dan aplikasi SFOX melalui reseller resmi kami.",
   "resellers": [
     {
@@ -13,18 +13,6 @@
       "mapLabel": "Buka di peta",
       "contactLabel": "Hubungi Bintang275",
       "whatsappMessage": "Saya ingin membeli produk SFOX dari Bintang275, "
-    },
-    {
-      "name": "Aurora Volt",
-      "logoUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/reseller/bintang275.jpeg",
-      "address": "Jl. Melati 27, Yogyakarta",
-      "whatsapp": "6281234567890",
-      "mapUrl": "",
-      "latitude": -7.7956,
-      "longitude": 110.3695,
-      "mapLabel": "Buka di peta",
-      "contactLabel": "Hubungi Aurora Volt",
-      "whatsappMessage": "Saya ingin membeli produk SFOX dari Aurora Volt, "
     }
   ],
   "joinTitle": "Tertarik menjadi reseller SFOX?",
