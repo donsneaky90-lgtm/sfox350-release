@@ -11,6 +11,16 @@
       "mapLabel": "Buka di peta",
       "contactLabel": "Hubungi Bintang275",
       "whatsappMessage": "Saya ingin membeli produk SFOX dari Bintang275, "
+    },
+    {
+      "name": "Aurora Volt",
+      "logoUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/reseller/bintang275.jpeg",
+      "address": "Jl. Melati 27, Yogyakarta",
+      "whatsapp": "6281234567890",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jl.+Melati+27,+Yogyakarta",
+      "mapLabel": "Buka lokasi Aurora Volt",
+      "contactLabel": "Hubungi Aurora Volt",
+      "whatsappMessage": "Saya ingin membeli produk SFOX dari Aurora Volt, "
     }
   ],
   "joinTitle": "Tertarik menjadi reseller SFOX?",
