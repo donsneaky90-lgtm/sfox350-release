@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.2.19",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.19/app-release.apk",
-  "changelog": "PEMBARUAN APLIKASI SAAT INI\n[01/09/26]\n\n- Pencarian tujuan lokasi dari google map.\n- Auto GPS On/Off\n- ----------------------------------------",
+  "versionCode": 18,
+  "versionName": "1.2.20",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.20/app-release.apk",
+  "changelog": "PEMBARUAN APLIKASI SAAT INI\n[16/09/26]\n\n- Pencarian tujuan dari Google Maps di perbarui.\n- GPS otomatis.\n- Mini map tersedia di menu lain saat perjalanan aktif.\n- Floating navigasi muncul saat aplikasi diminimalkan.\n- Riwayat trip bulanan, dan tahunan dengan animasi.\n- Riwayat trip dilengkapi rute, grafik elevasi.\n- Pengambilan data elevasi otomatis di setiap trip.\n- Dashboard, widget, notifikasi, dan overlay diperbarui lebih efisien.\n- Perhitungan route navigasi sesuai data trip dan elevasi.\n- Tampilan SOC speedometer dapat diatur.\n- Tampilan tegangan cell tersedia dalam grafik dan tabel.\n- Penambahan BMS JK, mendukung sampai 32 cell dan multy add.\n- Backup dan restore data tersedia dengan pemeriksaan file.\n- Dukungan developer.\n- Tampilan lampu, sein, dan Signal Monitor menyesuaikan tipe motor.\n- Tema tampilan aplikasi diperbarui.\n- Auto update Frimware/perangkat.\n- Penambahan Identitas Reseller di frimware.\n- Monitoring jaringan CAN di perbarui.\n- Pengingat sein dan suara rem diperbarui.\n- Theme dark.",
   "forceUpdate": false
 }
