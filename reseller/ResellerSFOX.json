@@ -1,0 +1,20 @@
+{
+  "title": "Reseller resmi SFOX",
+  "description": "Dapatkan modul dan aplikasi SFOX melalui reseller resmi kami.",
+  "resellers": [
+    {
+      "name": "Bintang275",
+      "logoUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/reseller/bintang275.jpeg",
+      "address": "Toditan, Ceporan, Kec. Gantiwarno, Kabupaten Klaten, Jawa Tengah 57455",
+      "whatsapp": "6281915221061",
+      "mapUrl": "",
+      "mapLabel": "Buka di peta",
+      "contactLabel": "Hubungi Bintang275",
+      "whatsappMessage": "Saya ingin membeli produk SFOX dari Bintang275, "
+    }
+  ],
+  "joinTitle": "Tertarik menjadi reseller SFOX?",
+  "joinLabel": "Hubungi kami",
+  "joinMessage": "Saya ingin jadi reseller resmi SFOX, ",
+  "joinWhatsapp": "6282226244429"
+}
