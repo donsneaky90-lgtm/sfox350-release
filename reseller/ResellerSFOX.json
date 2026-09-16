@@ -12,7 +12,31 @@
       "longitude": 110.5651822,
       "mapLabel": "Buka di peta",
       "contactLabel": "Hubungi Bintang275",
-      "whatsappMessage": "Saya ingin membeli produk SFOX dari Bintang275, "
+      "whatsappMessage": "Saya ingin membeli produk SFOX, "
+    },
+    {
+      "name": "LC BAN - EV",
+      "logoUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/reseller/LCBAN-EV.jpeg",
+      "address": "Jl. Ciater Barat RT.01/01 Kel.Ciater Kec.Serpong, Kota Tangerang Selatan, Banten 15310",
+      "whatsapp": "6282125252667",
+      "mapUrl": "",
+      "latitude": -6.332444,
+      "longitude": 106.6862932,
+      "mapLabel": "Buka di peta",
+      "contactLabel": "Hubungi LC BAN - EV",
+      "whatsappMessage": "Saya ingin membeli produk SFOX, "
+    },
+    {
+      "name": "Adoelz Garage",
+      "logoUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/reseller/adoelzgarage.jpeg",
+      "address": "Jl. Soekarno Hatta KM.1 RT.53 No.21 Muara Rapak, Balikpapan Utara, KALTIM",
+      "whatsapp": "628115445111",
+      "mapUrl": "",
+      "latitude": -1.2381426,
+      "longitude": 116.8401943,
+      "mapLabel": "Buka di peta",
+      "contactLabel": "Hubungi Adoelz Garage",
+      "whatsappMessage": "Saya ingin membeli produk SFOX, "
     }
   ],
   "joinTitle": "Tertarik menjadi reseller SFOX?",
