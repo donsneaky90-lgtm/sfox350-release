@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.2.21",
-  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.21/app-release.apk",
+  "versionCode": 20,
+  "versionName": "1.2.22",
+  "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.22/app-release.apk",
   "changelog": "PEMBARUAN APLIKASI SAAT INI\n[08/10/26]\n\n- Update firmware secara manual dan auto update.\n- FOX R/S menggunakan ODO virtual berdasarkan speed.\n- ODO FOX R/S dapat dikalibrasi mengikuti angka ODO di speedometer motor.\n- TRIP FOX R/S bertambah dari ODO virtual dan dapat di-reset dari dashboard.\n- Klik TRIP FOX R/S menyediakan pilihan Reset Trip atau membuka SFOX Trip.\n- Tampilan angka speed tetap mengikuti data CAN, sedangkan jarum speedometer dibatasi sampai 100.",
   "forceUpdate": false
 }
