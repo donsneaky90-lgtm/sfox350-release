@@ -2,6 +2,6 @@
   "versionCode": 20,
   "versionName": "1.2.22",
   "apkUrl": "https://github.com/donsneaky90-lgtm/sfox350-release/releases/download/v1.2.22/app-release.apk",
-  "changelog": "PEMBARUAN APLIKASI SAAT INI\n[28/11/26]\n\n- FIX ODO FOX R/S\n- Setting ID Layar OLED\n- Update Frimware OLED",
+  "changelog": "PEMBARUAN APLIKASI SAAT INI\nVer 1.2.22\n[28/11/26]\n\n- FIX ODO FOX R/S\n- Setting ID Layar OLED\n- Update Frimware OLED",
   "forceUpdate": false
 }
