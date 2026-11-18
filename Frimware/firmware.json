@@ -1,8 +1,8 @@
 {
-  "versionName": "Ver 1.12(MAIN)",
-  "versionCode": 112,
-  "fileName": "Ver_1.12MAIN.bin",
-  "firmwareUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/Frimware/Ver_1.12MAIN.bin",
-  "size": 1080640,
-  "sha256": "707ddf4f244cf937479f693d743f376e452e975ccc665dca43d77f1c423b1d37"
+  "versionName": "Ver 1.13(MAIN)",
+  "versionCode": 113,
+  "fileName": "Ver_1.13MAIN.bin",
+  "firmwareUrl": "https://raw.githubusercontent.com/donsneaky90-lgtm/sfox350-release/main/Frimware/Ver_1.13MAIN.bin",
+  "size": 1091136,
+  "sha256": "8a78a8272ddad190608a14a98d3e758a8c4529340f3f62d47907858b5c6fc13a"
 }
